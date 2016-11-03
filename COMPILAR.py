@@ -1,4 +1,5 @@
 # -*- coding: iso-8859-15 -*-
+#Importaciones
 import os
 import glob
 import smtplib
